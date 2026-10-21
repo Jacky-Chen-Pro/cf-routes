@@ -1,7 +1,8 @@
 {
   "routes": [
-    { "id": "aitools-chat", "base": "https://chat.aitoolscn.com", "label": "入口 1" },
-    { "id": "aitools-app", "base": "https://app.aitoolscn.com", "label": "入口 2" },
+    { "id": "aitools-chat", "base": "https://chat.aitoolscn.com", "label": "线路 1" },
+    { "id": "aitools-app", "base": "https://app.aitoolscn.com", "label": "线路 2" },
+    { "id": "aitools-lt", "base": "https://lt.aitoolscn.com", "label": "线路 3" },
     { "id": "vibe-chat", "base": "https://chat.vibecodings.org", "label": "备用入口" }
   ]
 }
